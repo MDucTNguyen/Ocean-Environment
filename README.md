@@ -19,6 +19,7 @@ The Ocean Environment App is compatible with both iOS and Android devices.
   - **Authentication:** Secure user authentication to manage access to the app.
   - **Realtime Database:** A database that supports real-time data synchronization, allowing users to receive instant updates.
   - **File Storage:** A service to store images, articles, and other media files efficiently.
- 
+# [Install](https://drive.google.com/file/d/1U87LLRtLOouy0RHFzuz6k4saeDpCUOBX/view?usp=sharing)
+
 # Demo
 [![Xem video](./assets/screens/picture.png)(./)](https://firebasestorage.googleapis.com/v0/b/food-donation-98ef2.appspot.com/o/env.mp4?alt=media&token=ef59813c-76ae-493d-8f5a-7cdad0cd37a2)

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-template",
-    "slug": "expo-template",
+    "name": "Ocean Environment",
+    "slug": "ocean-environment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,15 +22,20 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.quangakiyama.expotemplate"
+      "package": "com.quangakiyama.expotemplate",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "44fc26b5-7003-4ef0-baaf-166c61209456"
+        "projectId": "62d1300c-b4fc-470f-ae16-189e4afd66ec"
       }
-    }
+    },
+    "owner": "liorion",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
