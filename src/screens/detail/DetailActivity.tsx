@@ -29,12 +29,10 @@ const DetailActivity = ({ navigation, route }: Props) => {
     return null;
   }
 
-  console.log(data);
-
   return (
     <Box flex={1}>
       <StatusBar style="light" />
-      <ImageBackground source={{ uri: data.image }} w="$full" height={240}>
+      <ImageBackground source={data.image} w="$full" height={240}>
         <SafeAreaView>
           <HStack>
             <Button

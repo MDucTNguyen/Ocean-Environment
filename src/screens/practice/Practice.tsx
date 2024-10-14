@@ -29,7 +29,7 @@ const PracticeCard = ({ item, index }: { item: IActivity; index: number }) => {
           w={"$40"}
           h={"$32"}
           alt="img-practice"
-          source={require("../../assets/env/story1.png")}
+          source={item.image}
         />
       </Box>
       <VStack gap="$1" flex={1}>

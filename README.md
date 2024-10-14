@@ -1,51 +1,24 @@
-# Earth Guardian
+# Ocean Environment App - Knowledge and Exploration of Marine Environmental Protection
 
-## Demo App
-<!-- Link Vid Demo -->
+## Description:
+The Ocean Environment App is a mobile application designed to educate users about marine environmental protection through interactive articles, games, stories, and activities. Users can explore a wealth of information about ocean pollution, its sources, effects, and the measures needed to combat it. The app aims to create awareness and inspire action towards a healthier marine environment.
 
-## Table of Contents
-- [Earth Guardian](#earth-guardian)
-  - [Demo App](#demo-app)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Features](#features)
-  - [Screenshots](#screenshots)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
+The Ocean Environment App is compatible with both iOS and Android devices.
 
-## About
-<!-- App description -->
+**Main Features of the Ocean Environment App Include:**
+- **Informative Articles:** Users can view articles about ocean pollution, each detailing its description, sources, effects, and protective measures.
+- **Interactive Games:** Games are divided into three levels to help users easily select challenges according to their current knowledge level about marine environments.
+- **Marine Protection Activities:** Engage in various activities that promote marine environmental sustainability.
+- **Stories on Marine Environmental Protection:** Read inspiring stories that highlight the importance of protecting our oceans.
+- **Curated Content:** All content is carefully selected, compiled, and deployed to ensure quality before being made available on the application.
 
-## Features
-<!-- Your features app -->
+## Technologies Used:
+* [React Native:](https://reactnative.dev/) A framework that enables the development of cross-platform mobile applications, allowing the Ocean Environment App to run smoothly on both iOS and Android.
+* [Redux Toolkit:](https://redux-toolkit.js.org/) A library that simplifies state management, providing a robust solution for managing application state and enhancing future scalability.
+* [Supabase:](https://supabase.com/) An open-source backend as a service that offers several features:
+  - **Authentication:** Secure user authentication to manage access to the app.
+  - **Realtime Database:** A database that supports real-time data synchronization, allowing users to receive instant updates.
+  - **File Storage:** A service to store images, articles, and other media files efficiently.
 
-## Screenshots
-<!-- Screenshot image of some screen and place in ~/images folder from root app -->
-<img src="images/image_demo1.png" width="40%" style="inline-block" alt='screen1'>
-<img src="images/image_demo2.png" width="40%" style="inline-block" alt='screen2'>
-<img src="images/image_demo3.png" width="40%" style="inline-block" alt='screen3'>
-<img src="images/image_demo4.png" width="40%" style="inline-block" alt='screen4'>
-<img src="images/image_demo5.png" width="40%" style="inline-block" alt='screen5'>
-<img src="images/image_demo6.png" width="40%" style="inline-block" alt='screen6'>
-
-
-## Getting Started
-
-### Prerequisites
-
-- Node.Js: https://nodejs.org/en
-- Expo: https://docs.expo.dev/get-started/installation/
-- Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
-
-### Installation
-
-- Clone the repository to your local machine
-- Install dependencies using npm or yarn
-- Run the app using `yarn start` or another suitable command
-
-```bash
-git clone <git url app>
-cd app_name
-yarn
-yarn start
+# Demo
+[![Xem video](./assets/screens/picture.png)(./)](https://firebasestorage.googleapis.com/v0/b/food-donation-98ef2.appspot.com/o/env.mp4?alt=media&token=ef59813c-76ae-493d-8f5a-7cdad0cd37a2)# Ocean-Environment
